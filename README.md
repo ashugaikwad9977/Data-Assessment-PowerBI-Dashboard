@@ -28,4 +28,4 @@ Business-focused recommendations
 
 📊 Dashboard Preview  
 
-![Dashboard Preview]([assets/dashboard.png](https://github.com/ashugaikwad9977/Data-Assessment-PowerBI-Dashboard/blob/main/Data_Assessment_Overview.png))
+![Dashboard Preview](https://github.com/ashugaikwad9977/Data-Assessment-PowerBI-Dashboard/blob/main/Data_Assessment_Overview.png)
